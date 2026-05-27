@@ -1,4 +1,4 @@
-# stRuctures: The R package for the stRuctures dataset
+# stRuctures: The unofficial R package for the USA Structures Dataset
 
 An R package for accessing the USA Structures dataset.
 
